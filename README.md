@@ -4,10 +4,10 @@ The finished repository of the tutorial [Amazon Cloudfront: Create a distributio
 
 # Getting started
 
-1. Build the lambda function (under `function/*`)
+1. Build the lambda function (under `functions/*`)
 
 ```sh
-pnpm run generate-assets --filter "@function/*"
+pnpm run generate-assets --filter "@functions/*"
 ```
 
 2. Apply the infrastructure
